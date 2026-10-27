@@ -55,3 +55,6 @@
  .dock-inner .secondary{min-width:82px}
  .intro{padding-left:0;padding-right:0}
 }
+
+/* Larger screens use a centred editing dialog, not the mobile bottom sheet. */
+@media (min-width:641px){.sheet{inset:0;margin:auto;border-radius:25px;max-height:85dvh}}
