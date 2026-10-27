@@ -1,2 +1,5 @@
-# gma-congress-2026
-Personalised photo frame for the 68th GMA Congress, Prampram, 2–8 November 2026.
+# 68th GMA Congress photo frame
+
+Upload, position and download your attendance poster. Photos are processed locally in your browser.
+
+Prampram · 2–8 November 2026.
